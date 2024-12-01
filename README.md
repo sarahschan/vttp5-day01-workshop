@@ -1,3 +1,3 @@
-## DAY 1 WORKSHOP
+## DAY 1 WORKSHOP - Shopping Cart
 
-VTTP5a Day 1 Workshop - ShoppingCart assignment (without file reading and writing)
+- ShoppingCart assignment (without file reading and writing)
